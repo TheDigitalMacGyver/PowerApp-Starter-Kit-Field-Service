@@ -18,21 +18,26 @@ Quick Canvas App template for field technicians.
 - Access to a Dataverse or SharePoint list
 
 ## Setup steps
-1. Download the app package
+1. Clone this repo
+   ```bash
+   git clone https://github.com/your-org/PowerApp-Starter-Kit.git
+   cd PowerApp-Starter-Kit/CanvasApps/FieldService
+   
+2. Download the app package
    ```bash
    # Files located in CanvasApps/FieldService
    FieldService.msapp
    sample-data.json
 
-2. Open Power Apps Studio
+3. Open Power Apps Studio
 - Click Apps › Import canvas app
 - Upload FieldService.msapp
 
-3. Connect data sources
+4. Connect data sources
 -  Point to your Dataverse tables or SharePoint lists
 -  Optionally import sample-data.json via Power Automate or Mock API
 
-4. Save and publish
+5. Save and publish
 - Click File › Save As
 - Publish to your environment
 

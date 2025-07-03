@@ -1,0 +1,23 @@
+[
+  {
+    "WorkOrderID": 1001,
+    "Title": "Inspect HVAC unit",
+    "Status": "Open",
+    "Latitude": 45.5231,
+    "Longitude": -122.6765
+  },
+  {
+    "WorkOrderID": 1002,
+    "Title": "Replace filter",
+    "Status": "In Progress",
+    "Latitude": 45.5152,
+    "Longitude": -122.6784
+  },
+  {
+    "WorkOrderID": 1003,
+    "Title": "Service generator",
+    "Status": "Completed",
+    "Latitude": 45.5051,
+    "Longitude": -122.6919
+  }
+]
